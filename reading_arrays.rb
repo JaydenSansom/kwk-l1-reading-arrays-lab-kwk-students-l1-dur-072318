@@ -39,6 +39,6 @@ end
 
 def first_second_and_third_students
   #yyyaaaaassss
-  STUDENT_NAMES<<.first[2,3]
+  STUDENT_NAMES<<.first[1,2]
 end
 
