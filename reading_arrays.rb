@@ -39,7 +39,7 @@ end
 
 def first_second_and_third_students
   #yyyaaaaassss
-  puts STUDENT_NAMES<< [0,1,2]
+  puts STUDENT_NAMES[0,1,2]
 end
 
 first_second_and_third_students
