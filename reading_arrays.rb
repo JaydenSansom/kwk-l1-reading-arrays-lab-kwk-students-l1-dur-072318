@@ -39,7 +39,8 @@ end
 
 def first_second_and_third_students
   #yyyaaaaassss
-  puts STUDENT_NAMES[0,1,2]
+  STUDENT_NAMES.first
+  STUDENT_NAMES[1,2]
 end
 
 first_second_and_third_students
