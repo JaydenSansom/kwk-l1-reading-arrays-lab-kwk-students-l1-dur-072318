@@ -33,7 +33,7 @@ end
 
 def last_student_by_method
   #famlit
-  STUDENT_NAMES.last
+  STUDENT_NAMES.push.last
 end
 
 
