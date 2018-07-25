@@ -27,7 +27,7 @@ end
 
 def first_student_by_method
   #hi
-  STUDENT_NAMES.first
+  STUDENT_NAMES.push.first
 end
 
 
